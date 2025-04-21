@@ -8,7 +8,6 @@
 ░▒▓█▓▒░      ░▒▓█▓▒░▒▓███████▓▒░ ░▒▓██████▓▒░ ░▒▓██████▓▒░
 ```                                                        
                                                             
-HOW IS AI CHANGING THE WORKFORCE?
 
 [last update [06/06/24]
 <!--
